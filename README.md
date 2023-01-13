@@ -14,7 +14,6 @@ This package offers a parallel option to most computationally expensive function
 
 1. Please first make sure you are on version 3.6.2 or later of R before attempting to install
 2. If not yet installed into R, run: `install.packages("devtools")`
-3. Also run: `devtools::install_github("statsbomb/SDMTools")`
 4. Then, install this R package as: `devtools::install_github("statsbomb/StatsBombR")`
 5. Finally, `library(StatsBombR)`
 
